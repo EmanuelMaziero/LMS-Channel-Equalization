@@ -2,7 +2,7 @@
 
 Telecommunications Engineering, last semester.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelMaziero&repo=MultiLayer-Perceptron-from-Scratch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EmanuelMaziero/MultiLayer-Perceptron-from-Scratch)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelMaziero&repo=lms_channel_equalization&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EmanuelMaziero/lms_channel_equalization)
 
 ### Connect with me!
 
@@ -13,6 +13,6 @@ Telecommunications Engineering, last semester.
 ### Skills
 
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2023a-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/-Neural%20Networks-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/-Adaptative%20Filters-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Linear%20Algebra-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Differential%20Calculus-blue.svg)](https://shields.io/)
