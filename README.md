@@ -2,6 +2,8 @@
 
 Telecommunications Engineering, last semester.
 
+# Channel Equalization with LMS adaptative filtering
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelMaziero&repo=lms_channel_equalization&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EmanuelMaziero/lms_channel_equalization)
 
 ### Connect with me!
